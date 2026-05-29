@@ -384,9 +384,6 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 ---
 
-````markdown
----
-
 # 🏢 Development Organization
 
 ## ⚔️ Core Engineering Division
