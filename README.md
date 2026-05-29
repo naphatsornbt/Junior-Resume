@@ -113,7 +113,7 @@ Focused on building scalable systems, optimized mobile environments, and modern 
   </a>
 
   <a href="https://facebook.com/naphatsornbt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="50" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" />
   </a>
 
   <a href="https://youtube.com/@aleefdubai" target="_blank">
