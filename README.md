@@ -1,3 +1,14 @@
+<!--
+  © 2026 นภัสสร ปิ่นเครือ
+  Protected Engineering Repository
+  Unauthorized copying is prohibited.
+-->
+
+```html
+<!-- Naphatsorn Pinkruea | naphatsornbt | Protected Repository -->
+```
+
+
 # ⚡ Hello, World! I'm Aleef 👩‍💻
 
 <p align="center">
@@ -634,4 +645,40 @@ Game Engine Research
 ---
 
 > 💡 *“Talk is cheap. Show me the code.”* — Linus Torvalds
-> 🌍 *“Developer Frome.”* — Thailand
+> 🌍 *“Developer Frome”* — Thailand
+
+<div align="center">
+
+# ⚠️ Copyright & Intellectual Property
+
+© 2026 **นภัสสร ปิ่นเครือ (Naphatsorn Pinkruea)**
+All Rights Reserved.
+
+This repository, including source code, systems, architecture, UI/UX concepts, engineering structures, configurations, assets, and development workflows, is protected under international copyright and intellectual property laws.
+
+Unauthorized copying, redistribution, modification, reproduction, re-uploading, reverse engineering, or commercial usage of any part of this repository without explicit written permission is strictly prohibited.
+
+---
+
+### 🛡️ Protected Engineering Areas
+
+* Android Native Systems
+* Multiplayer Infrastructure
+* Full-Stack Architectures
+* AI Automation Systems
+* Reverse Engineering Research
+* Performance Optimization Techniques
+* Rendering & Networking Systems
+
+---
+
+### ⚡ Official Ownership
+
+**Owner:** นภัสสร ปิ่นเครือ
+**GitHub:** github.com/naphatsornbt
+
+---
+
+> “Performance First. Code Without Limits.”
+
+</div>
