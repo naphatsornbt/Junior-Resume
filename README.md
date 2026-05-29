@@ -116,8 +116,8 @@ Focused on building scalable systems, optimized mobile environments, and modern 
     <img src="https://skillicons.dev/icons?i=facebook" width="50" />
   </a>
 
-  <a href="https://youtube.com/@naphatsornbt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50" />
+  <a href="https://youtube.com/@aleefdubai" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" />
   </a>
 
   <a href="https://instagram.com/naphatsornbt" target="_blank">
