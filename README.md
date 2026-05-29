@@ -71,13 +71,13 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=naphatsornbt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+    src="https://github-readme-stats.vercel.app/api?username=naphatsornbt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" 
     width="48%" 
     alt="GitHub Stats" 
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naphatsornbt&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naphatsornbt&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10&cache_seconds=1800" 
     width="48%" 
     alt="Top Languages" 
   />
