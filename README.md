@@ -1,22 +1,10 @@
 # ⚡ Hello, World! I'm Aleef 👩‍💻
-# ⚡ สวัสดีเพื่อนๆ! ฉันคือ อลีฟ น่ะ 👩‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=300A24&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Full-Stack+Developer
-Senior+Full-Stack+Engineer
-Advanced+System+Architect
-Realtime+Systems+Engineer
-64-Bit+Architecture+Specialist
-Android+Systems+Engineer
-Cloud-Native+Developer
-High-Performance+Backend+Engineer
-Linux+Infrastructure+Engineer
-AI-Powered+Automation+Developer
-Multiplayer+Framework+Engineer
-Reverse+Engineering+Researcher
-Performance+Optimization+Specialist
-Production-Grade+Software+Engineer
-Cross-Platform+Runtime+Engineer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=300A24&center=true&vCenter=true&random=true&width=1000&lines=Full-Stack+Developer;Senior+Full-Stack+Engineer;Advanced+System+Architect;Realtime+Systems+Engineer;64-Bit+Architecture+Specialist;Android+Systems+Engineer;Cloud-Native+Developer;High-Performance+Backend+Engineer;Linux+Infrastructure+Engineer;AI-Powered+Automation+Developer;Multiplayer+Framework+Engineer;Reverse+Engineering+Researcher;Performance+Optimization+Specialist;Production-Grade+Software+Engineer;Cross-Platform+Runtime+Engineer" 
+    alt="Typing SVG" 
+  />
 </p>
 
 A passionate **Full-Stack Developer** / **Android Systems Engineer** specializing in performance optimization, low-level Android systems, 64-bit architecture compilation, and multiplayer mobile frameworks.  
