@@ -11,10 +11,33 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 # 🛠️ Tech Stack & Programming Languages
 
-## 🚀 Languages
+## 🚀 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,javascript,typescript,php,dart,lua,go,rust,swift,bash" />
+
+<!-- SkillIcons -->
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,javascript,typescript,php,dart,lua,go,rust,swift,bash,perl,ruby,r,scala,haskell,matlab" />
+
+<!-- Devicon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="48" />
+
+<!-- SimpleIcons -->
+<img src="https://cdn.simpleicons.org/zig/F7A41D" width="48" />
+<img src="https://cdn.simpleicons.org/nim/FFE953" width="48" />
+<img src="https://cdn.simpleicons.org/crystal/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/solidity/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/vlang/5D87BF" width="48" />
+<img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" width="48" />
+
 </p>
 
 <p>
@@ -43,7 +66,18 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 ## 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,sass" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,sass,redux,jquery,webpack,electron,threejs" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="48" />
+
+<img src="https://cdn.simpleicons.org/alpinedotjs/8BC0D0" width="48" />
+<img src="https://cdn.simpleicons.org/astro/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="48" />
+
 </p>
 
 <p>
@@ -66,7 +100,18 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 ## ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,firebase,mysql,mongodb,postgres,sqlite" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,firebase,mysql,mongodb,postgres,sqlite,redis,django,flask,fastapi,spring" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" />
+
+<img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" />
+<img src="https://cdn.simpleicons.org/trpc/2596BE" width="48" />
+
 </p>
 
 <p>
@@ -89,7 +134,15 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 ## 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart" />
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,swift,react" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" />
+
+<img src="https://cdn.simpleicons.org/expo/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/nativescript/65ADF1" width="48" />
+
 </p>
 
 <p>
@@ -110,7 +163,19 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 ## 🖥️ Systems Engineering & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,docker,nginx,git,github,gitlab,bash,cloudflare" />
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,arch,docker,kubernetes,nginx,git,github,gitlab,bash,powershell,cloudflare,aws,gcp,azure,jenkins,terraform,ansible" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" />
+
+<img src="https://cdn.simpleicons.org/openstack/ED1944" width="48" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" />
+<img src="https://cdn.simpleicons.org/vmware/607078" width="48" />
+<img src="https://cdn.simpleicons.org/proxmox/F15A29" width="48" />
+
 </p>
 
 <p>
@@ -141,10 +206,18 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 ---
 
-## 🎮 Game & Multiplayer Development
+## 🎮 Game Development & Graphics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,unreal" />
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/directx/directx-original.svg" width="48" />
+
+<img src="https://cdn.simpleicons.org/vulkan/AC162C" width="48" />
+<img src="https://cdn.simpleicons.org/godotengine/478CBF" width="48" />
+
 </p>
 
 <p>
@@ -163,6 +236,24 @@ Focused on building scalable systems, optimized mobile environments, and modern 
   🔹 Realtime Packet Engineering <br>
   🔹 Custom Launcher Development <br>
   🔹 Game Anti-Cheat Research
+</p>
+
+---
+
+## 🤖 AI / Machine Learning / Data Science
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
+
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" />
+<img src="https://cdn.simpleicons.org/langchain/00FFAA" width="48" />
+
 </p>
 
 ---
@@ -196,7 +287,20 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 # 🧰 Tools & Software
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,figma,photoshop,aftereffects,premiere,blender" />
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,webstorm,pycharm,clion,rider,figma,photoshop,aftereffects,premiere,blender,git,github,gitlab,docker,nginx,firebase,cloudflare" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="48" />
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" />
+<img src="https://cdn.simpleicons.org/obsstudio/302E31" width="48" />
+<img src="https://cdn.simpleicons.org/notion/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/ffmpeg/007808" width="48" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" />
+<img src="https://cdn.simpleicons.org/virtualbox/183A61" width="48" />
+<img src="https://cdn.simpleicons.org/vmware/607078" width="48" />
+
 </p>
 
 <p>
