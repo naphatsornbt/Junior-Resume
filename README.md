@@ -563,7 +563,6 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 ---
 
-```md
 # 🧩 Active Engineering Domains
 
 <p>
@@ -578,8 +577,6 @@ Focused on building scalable systems, optimized mobile environments, and modern 
   ⚡ Graphics Rendering Pipelines <br>
   ⚡ Game Engine Research
 </p>
-
----
 
 ---
 
