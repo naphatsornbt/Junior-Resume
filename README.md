@@ -25,7 +25,7 @@ A passionate **Full-Stack Developer** / **Android Systems Engineer** specializin
 ## 📊 GitHub Performance & Statistics
 
 <p align="center">
-  <!-- การ์ดรวมข้อมูลสถิติภาพรวมทั้งหมด -->
+  <!-- การ์ดรวมข้อมูลสถิติภาพรวมทั้งหมด (ใช้เซิร์ฟเวอร์สำรองเสถียรสูงสุดปี 2026) -->
   <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
   <!-- การ์ดวิเคราะห์สัดส่วนภาษาโค้ดที่ถูกใช้งานมากที่สุด -->
   <img src="https://vercel.app" width="48%" alt="Top Languages" />
@@ -41,12 +41,16 @@ A passionate **Full-Stack Developer** / **Android Systems Engineer** specializin
 ## 🌐 Connect With Me
 
 <p align="left">
+  <!-- ปุ่ม Discord แบบใช้ระบบแสดงผลรูปภาพภายในคลังแสง ป้องกันภาพแตก -->
   <a href="https://discord.gg" target="_blank">
-    <img src="https://shields.io" alt="Discord" />
+    <img src="https://skillicons.dev" width="50" alt="Discord" />
   </a>
+  <!-- ปุ่ม Facebook แบบใช้ระบบแสดงผลรูปภาพภายในคลังแสง ป้องกันภาพแตก -->
   <a href="https://facebook.com" target="_blank">
-    <img src="https://shields.io" alt="Facebook" />
+    <img src="https://skillicons.dev" width="50" alt="Gmail" />
   </a>
 </p>
+
+---
 
 > 💡 *“Talk is cheap. Show me the code.” — Linus Torvalds*
