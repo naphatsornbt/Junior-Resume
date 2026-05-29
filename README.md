@@ -4,9 +4,7 @@
   Unauthorized copying is prohibited.
 -->
 
-```html
 <!-- Naphatsorn Pinkruea | naphatsornbt | Protected Repository -->
-```
 
 
 # ⚡ Hello, World! I'm Aleef 👩‍💻
