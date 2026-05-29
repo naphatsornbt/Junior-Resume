@@ -1,11 +1,99 @@
-# ⚡ Hello, World! I'm naphatsornbt 🧑‍💻
+# ⚡ Hello, World! I'm Aleef 👩‍💻
+# ⚡ สวัสดีเพื่อนๆ! ฉันคือ อลีฟ น่ะ 👩‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Android+Systems+Engineer;64-Bit+Architecture+Specialist;Performance+Optimization+Expert;Multiplayer+Mobile+Framework+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=300A24&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Full-Stack+Developer
+Senior+Full-Stack+Engineer
+Advanced+System+Architect
+Realtime+Systems+Engineer
+64-Bit+Architecture+Specialist
+Android+Systems+Engineer
+Cloud-Native+Developer
+High-Performance+Backend+Engineer
+Linux+Infrastructure+Engineer
+AI-Powered+Automation+Developer
+Multiplayer+Framework+Engineer
+Reverse+Engineering+Researcher
+Performance+Optimization+Specialist
+Production-Grade+Software+Engineer
+Cross-Platform+Runtime+Engineer" alt="Typing SVG" />
 </p>
 
 A passionate **Full-Stack Developer** / **Android Systems Engineer** specializing in performance optimization, low-level Android systems, 64-bit architecture compilation, and multiplayer mobile frameworks.  
 Focused on building scalable systems, optimized mobile environments, and modern full-stack applications with maximum efficiency ⚡
+
+นักพัฒนา Full-Stack / วิศวกรระบบ Android ที่มีความมุ่งมั่น เชี่ยวชาญด้านการเพิ่มประสิทธิภาพ การทำงานระดับต่ำของระบบ Android การคอมไพล์สถาปัตยกรรม 64 บิต และเฟรมเวิร์กมือถือแบบมัลติเพลเยอร์
+มุ่งเน้นการสร้างระบบที่ปรับขนาดได้ สภาพแวดล้อมมือถือที่ได้รับการปรับให้เหมาะสม และแอปพลิเคชัน Full-Stack ที่ทันสมัยด้วยประสิทธิภาพสูงสุด ⚡
+
+---
+
+## 🌍 Languages & Communication
+
+<p>
+  🇹🇭 Thai — Native Communication <br>
+  🇬🇧 English — Professional Working Proficiency <br>
+  🇷🇺 Russian — Technical Communication & Reading <br>
+  🇸🇦 Arabic — Basic Communication & Typing <br>
+  🇮🇩 Indonesian — Conversational Communication <br>
+</p>
+
+---
+
+## 🌐 Multilingual Capabilities
+
+<p>
+  🔹 Multilingual Communication <br>
+  🔹 Cross-Cultural Collaboration <br>
+  🔹 Technical Documentation Reading <br>
+  🔹 International Community Support <br>
+  🔹 Realtime Translation Workflow <br>
+  🔹 Multilingual Typing Systems
+</p>
+
+---
+
+## ⌨️ Supported Typing Languages
+
+<p>
+  🇹🇭 ไทย (Thai) <br>
+  🇬🇧 English <br>
+  🇷🇺 Русский (Russian) <br>
+  🇸🇦 العربية (Arabic) <br>
+  🇮🇩 Bahasa Indonesia
+</p>
+
+---
+
+## 🌎 International Development Environment
+
+<p>
+  Working across multilingual communities, international development teams,
+  global infrastructure systems, and realtime cross-region communication environments.
+</p>
+
+---
+
+## 🧠 Language Specializations
+
+<table>
+<tr>
+<td>🌍 Technical Translation</td>
+<td>🌍 Multilingual Typing</td>
+<td>🌍 International Networking</td>
+</tr>
+
+<tr>
+<td>⚡ English Documentation</td>
+<td>⚡ Russian Communities</td>
+<td>⚡ Arabic Communication</td>
+</tr>
+
+<tr>
+<td>🚀 Global Development Teams</td>
+<td>🚀 Cross-Region Systems</td>
+<td>🚀 Worldwide Collaboration</td>
+</tr>
+</table>
 
 ---
 
@@ -558,3 +646,4 @@ Game Engine Research
 ---
 
 > 💡 *“Talk is cheap. Show me the code.”* — Linus Torvalds
+> 🌍 *“Developer Frome.”* — Thailand
