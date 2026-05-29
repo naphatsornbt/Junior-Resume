@@ -588,6 +588,21 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 ---
 
+# ⚡ Infrastructure & Research
+
+<p>
+  🔹 ARM64 Runtime Optimization <br>
+  🔹 Native Android Framework Research <br>
+  🔹 Multiplayer Packet Synchronization <br>
+  🔹 GPU Rendering Optimization <br>
+  🔹 Realtime AI Integration Systems <br>
+  🔹 Vulkan/OpenGL Graphics Pipeline <br>
+  🔹 Cloud-Native Infrastructure Systems <br>
+  🔹 Binary Analysis & Reverse Engineering
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="left">
@@ -643,7 +658,7 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 ---
 
 > 💡 *“Talk is cheap. Show me the code.”* — Linus Torvalds
-> 🌍 *“Developer Frome”* — United Arab Emirates
+> 🌍 *“Developer From”* — United Arab Emirates
 > 🔹 *“© 2026 นภัสสร ปิ่นเครือ”* — AE
 
 <div align="center">
