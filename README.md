@@ -643,7 +643,8 @@ Game Engine Research
 ---
 
 > 💡 *“Talk is cheap. Show me the code.”* — Linus Torvalds
-> 🌍 *“Developer Frome”* — Thailand
+> 🌍 *“Developer Frome”* — United Arab Emirates
+> 🔹 *“© 2026 นภัสสร ปิ่นเครือ”* — AE
 
 <div align="center">
 
