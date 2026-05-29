@@ -563,20 +563,23 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 ---
 
+```md
 # 🧩 Active Engineering Domains
 
-```txt
-Android Systems Engineering
-Artificial Intelligence Systems
-Realtime Multiplayer Networking
-Cloud Infrastructure Engineering
-Reverse Engineering & Binary Analysis
-High-Performance Backend Architecture
-Cross-Platform Runtime Optimization
-Linux Server Operations
-Graphics Rendering Pipelines
-Game Engine Research
-````
+<p>
+  ⚡ Android Systems Engineering <br>
+  ⚡ Artificial Intelligence Systems <br>
+  ⚡ Realtime Multiplayer Networking <br>
+  ⚡ Cloud Infrastructure Engineering <br>
+  ⚡ Reverse Engineering & Binary Analysis <br>
+  ⚡ High-Performance Backend Architecture <br>
+  ⚡ Cross-Platform Runtime Optimization <br>
+  ⚡ Linux Server Operations <br>
+  ⚡ Graphics Rendering Pipelines <br>
+  ⚡ Game Engine Research
+</p>
+
+---
 
 ---
 
