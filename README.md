@@ -17,12 +17,48 @@ Focused on building scalable systems, optimized mobile environments, and modern 
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,javascript,typescript,php,dart,lua,go,rust,swift,bash" />
 </p>
 
+<p>
+  🔹 C / C++ Native Systems Programming <br>
+  🔹 C# Enterprise & Game Development <br>
+  🔹 Java & Kotlin Android Engineering <br>
+  🔹 Python Automation & AI Systems <br>
+  🔹 JavaScript / TypeScript Full-Stack Architecture <br>
+  🔹 PHP Backend Engineering <br>
+  🔹 Dart Cross-Platform Development <br>
+  🔹 Lua Game Scripting & Multiplayer Logic <br>
+  🔹 Go High-Performance Backend Services <br>
+  🔹 Rust Memory-Safe Native Systems <br>
+  🔹 Swift iOS Native Development <br>
+  🔹 Bash/Linux Shell Automation <br>
+  🔹 Perl & Ruby Scripting <br>
+  🔹 Scala Parallel Systems <br>
+  🔹 Haskell Functional Programming <br>
+  🔹 R Statistical Computing <br>
+  🔹 Assembly Reverse Engineering <br>
+  🔹 SQL Database Engineering
+</p>
+
 ---
 
 ## 🌐 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,sass" />
+</p>
+
+<p>
+  🔹 React Ecosystem Architecture <br>
+  🔹 Next.js SSR / ISR Systems <br>
+  🔹 Vue.js SPA Development <br>
+  🔹 Tailwind Advanced UI Engineering <br>
+  🔹 Bootstrap Responsive Systems <br>
+  🔹 SCSS / SASS Styling Architecture <br>
+  🔹 Webpack & Vite Bundling <br>
+  🔹 Three.js 3D Rendering <br>
+  🔹 Progressive Web Applications (PWA) <br>
+  🔹 Realtime WebSocket Applications <br>
+  🔹 UI/UX Engineering <br>
+  🔹 Frontend Performance Optimization
 </p>
 
 ---
@@ -33,6 +69,21 @@ Focused on building scalable systems, optimized mobile environments, and modern 
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,firebase,mysql,mongodb,postgres,sqlite" />
 </p>
 
+<p>
+  🔹 REST API Engineering <br>
+  🔹 GraphQL Systems <br>
+  🔹 Authentication & JWT Security <br>
+  🔹 Microservice Architecture <br>
+  🔹 Redis Cache Optimization <br>
+  🔹 WebSocket Backend Infrastructure <br>
+  🔹 Database Replication Systems <br>
+  🔹 Linux Production Servers <br>
+  🔹 Firebase Realtime Systems <br>
+  🔹 Supabase Cloud Infrastructure <br>
+  🔹 PostgreSQL High-Performance Queries <br>
+  🔹 MongoDB Scalable Architecture
+</p>
+
 ---
 
 ## 📱 Mobile Development
@@ -41,12 +92,51 @@ Focused on building scalable systems, optimized mobile environments, and modern 
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart" />
 </p>
 
+<p>
+  🔹 Android Native Development <br>
+  🔹 Android System Modification <br>
+  🔹 JNI / NDK Native Integration <br>
+  🔹 ARM64 Optimization <br>
+  🔹 Mobile Rendering Optimization <br>
+  🔹 Emulator Performance Tuning <br>
+  🔹 Flutter Cross-Platform Apps <br>
+  🔹 Mobile Security Research <br>
+  🔹 Android Reverse Engineering <br>
+  🔹 APK Analysis & Rebuilding
+</p>
+
 ---
 
 ## 🖥️ Systems Engineering & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,docker,nginx,git,github,gitlab,bash,cloudflare" />
+</p>
+
+<p>
+  🔹 Linux Systems Administration <br>
+  🔹 Ubuntu / Debian / Kali Engineering <br>
+  🔹 Docker Container Infrastructure <br>
+  🔹 Kubernetes Cluster Management <br>
+  🔹 NGINX Reverse Proxy Systems <br>
+  🔹 Git CI/CD Automation <br>
+  🔹 GitHub Actions Pipelines <br>
+  🔹 GitLab DevOps Systems <br>
+  🔹 Cloudflare Network Protection <br>
+  🔹 VPS & Dedicated Server Deployment <br>
+  🔹 SSH Hardening & Security <br>
+  🔹 Kernel-Level Optimization <br>
+  🔹 ARM64 Compilation Pipelines <br>
+  🔹 Hypervisor & Virtualization Systems <br>
+  🔹 VMware / VirtualBox Infrastructure <br>
+  🔹 Low-Level Memory Optimization <br>
+  🔹 Vulkan / OpenGL Rendering Stack <br>
+  🔹 Reverse Engineering & Binary Analysis <br>
+  🔹 Packet Sniffing & Network Diagnostics <br>
+  🔹 Penetration Testing Fundamentals <br>
+  🔹 Android System Internals <br>
+  🔹 RenderWare Engine Optimization <br>
+  🔹 Cross-Platform Runtime Engineering
 </p>
 
 ---
@@ -62,7 +152,17 @@ Focused on building scalable systems, optimized mobile environments, and modern 
   🔹 FiveM Frameworks <br>
   🔹 Multiplayer Networking <br>
   🔹 Mobile Client Optimization <br>
-  🔹 RenderWare & Game Engine Modding
+  🔹 RenderWare & Game Engine Modding <br>
+  🔹 RakNet Networking Systems <br>
+  🔹 Open Multiplayer Protocols <br>
+  🔹 Game Memory Hooking <br>
+  🔹 Native Game Patching <br>
+  🔹 DirectX / Vulkan Integration <br>
+  🔹 Android Game Modification <br>
+  🔹 Multiplayer Sync Systems <br>
+  🔹 Realtime Packet Engineering <br>
+  🔹 Custom Launcher Development <br>
+  🔹 Game Anti-Cheat Research
 </p>
 
 ---
@@ -97,6 +197,33 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,figma,photoshop,aftereffects,premiere,blender" />
+</p>
+
+<p>
+  🔹 Visual Studio Enterprise Development <br>
+  🔹 VS Code Advanced Workspace Systems <br>
+  🔹 JetBrains IDE Ecosystem <br>
+  🔹 Android Studio Native Toolchains <br>
+  🔹 Figma UI/UX Systems <br>
+  🔹 Adobe Photoshop Professional Editing <br>
+  🔹 Adobe After Effects Motion Graphics <br>
+  🔹 Adobe Premiere Video Production <br>
+  🔹 Blender 3D Modeling & Rendering <br>
+  🔹 Postman API Testing <br>
+  🔹 Wireshark Packet Analysis <br>
+  🔹 VMware & VirtualBox Virtualization <br>
+  🔹 Git Version Control Systems <br>
+  🔹 Docker Container Management <br>
+  🔹 FFmpeg Media Processing <br>
+  🔹 JADX Android Reverse Engineering <br>
+  🔹 IDA / Ghidra Binary Analysis <br>
+  🔹 Linux Terminal Power Workflow <br>
+  🔹 MySQL Workbench Database Management <br>
+  🔹 Firebase Console Infrastructure <br>
+  🔹 NGINX Production Deployment <br>
+  🔹 Cloudflare Network Management <br>
+  🔹 Emulator Optimization Toolchains <br>
+  🔹 Full Production Dev Environment Engineering
 </p>
 
 ---
