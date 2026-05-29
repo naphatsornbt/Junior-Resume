@@ -244,16 +244,68 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<!-- SkillIcons -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
+<!-- Devicon -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" />
 
+<!-- SimpleIcons -->
 <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/chatbot/00FFFF" width="48" />
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" />
 <img src="https://cdn.simpleicons.org/langchain/00FFAA" width="48" />
+<img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="48" />
+<img src="https://cdn.simpleicons.org/claude/FF8800" width="48" />
+<img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="48" />
+<img src="https://cdn.simpleicons.org/stabilityai/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/replicate/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" />
+<img src="https://cdn.simpleicons.org/keras/D00000" width="48" />
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="48" />
+<img src="https://cdn.simpleicons.org/weaviate/00C4B3" width="48" />
+<img src="https://cdn.simpleicons.org/pinecone/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/chroma/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/qdrant/EF3340" width="48" />
+<img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="48" />
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" />
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" />
+<img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="48" />
+<img src="https://cdn.simpleicons.org/gradio/FF4B4B" width="48" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" />
+<img src="https://cdn.simpleicons.org/selenium/43B02A" width="48" />
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" />
+<img src="https://cdn.simpleicons.org/ray/028CF0" width="48" />
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" />
+<img src="https://cdn.simpleicons.org/notebook/FFFFFF" width="48" />
 
+</p>
+
+<p>
+  🔹 Artificial Intelligence Engineering <br>
+  🔹 Large Language Model (LLM) Systems <br>
+  🔹 AI Agent Architecture <br>
+  🔹 Retrieval-Augmented Generation (RAG) <br>
+  🔹 Vector Database Engineering <br>
+  🔹 Generative AI Systems <br>
+  🔹 Deep Learning Infrastructure <br>
+  🔹 Neural Network Optimization <br>
+  🔹 Computer Vision Engineering <br>
+  🔹 NLP & Text Processing <br>
+  🔹 AI Automation Pipelines <br>
+  🔹 Prompt Engineering <br>
+  🔹 AI API Integration <br>
+  🔹 Local AI Deployment <br>
+  🔹 GPU Acceleration & CUDA <br>
+  🔹 Training & Fine-Tuning Models <br>
+  🔹 Distributed AI Workloads <br>
+  🔹 Realtime AI Inference Systems
 </p>
 
 ---
