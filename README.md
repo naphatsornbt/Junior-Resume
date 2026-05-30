@@ -19,9 +19,6 @@
 A passionate **Full-Stack Developer** / **Android Systems Engineer** specializing in performance optimization, low-level Android systems, 64-bit architecture compilation, and multiplayer mobile frameworks.  
 Focused on building scalable systems, optimized mobile environments, and modern full-stack applications with maximum efficiency ⚡
 
-นักพัฒนา Full-Stack / วิศวกรระบบ Android ที่มีความมุ่งมั่น เชี่ยวชาญด้านการเพิ่มประสิทธิภาพ การทำงานระดับต่ำของระบบ Android การคอมไพล์สถาปัตยกรรม 64 บิต และเฟรมเวิร์กมือถือแบบมัลติเพลเยอร์
-มุ่งเน้นการสร้างระบบที่ปรับขนาดได้ สภาพแวดล้อมมือถือที่ได้รับการปรับให้เหมาะสม และแอปพลิเคชัน Full-Stack ที่ทันสมัยด้วยประสิทธิภาพสูงสุด ⚡
-
 ---
 
 ## 🌍 Languages & Communication
