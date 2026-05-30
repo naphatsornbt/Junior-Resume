@@ -1,10 +1,10 @@
 <!--
-  © 2026 นภัสสร ปิ่นเครือ
+  © 2026 จูเนียร์
   Protected Engineering Repository
   Unauthorized copying is prohibited.
 -->
 
-<!-- Naphatsorn Pinkruea | naphatsornbt | Protected Repository -->
+<!-- Junior Dior | junior-dior | Protected Repository -->
 
 
 # ⚡ Hello, World! I'm Aleef 👩‍💻
@@ -399,13 +399,13 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=naphatsornbt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=junior-dior&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
     width="48%" 
     alt="GitHub Stats" 
   />
 
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naphatsornbt&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=20" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=junior-dior&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=20" 
     width="48%" 
     alt="Top Languages" 
   />
@@ -413,7 +413,7 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=naphatsornbt&theme=tokyonight&hide_border=true&border_radius=15" 
+    src="https://streak-stats.demolab.com?user=junior-dior&theme=tokyonight&hide_border=true&border_radius=15" 
     width="97%" 
     alt="GitHub Streak" 
   />
@@ -606,15 +606,15 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/naphatsornbt" target="_blank">
+  <a href="https://github.com/junior-dior" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 
-  <a href="https://discord.com/users/naphatsornbt" target="_blank">
+  <a href="https://discord.com/users/junior-dior" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="50" />
   </a>
 
-  <a href="https://facebook.com/naphatsornbt" target="_blank">
+  <a href="https://facebook.com/junior-dior" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" />
   </a>
 
@@ -622,15 +622,15 @@ Focused on building scalable systems, optimized mobile environments, and modern 
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" />
   </a>
 
-  <a href="https://instagram.com/naphatsornbt" target="_blank">
+  <a href="https://instagram.com/junior-dior" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" />
   </a>
 
-  <a href="https://twitter.com/naphatsornbt" target="_blank">
+  <a href="https://twitter.com/junior-dior" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="50" />
   </a>
 
-  <a href="https://tiktok.com/@naphatsornbt" target="_blank">
+  <a href="https://tiktok.com/@junior-dior" target="_blank">
     <img src="https://simpleicons.org/icons/tiktok.svg" width="50" />
   </a>
 </p>
@@ -652,20 +652,20 @@ Focused on building scalable systems, optimized mobile environments, and modern 
 # 📈 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=naphatsornbt&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=junior-dior&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 > 💡 *“Talk is cheap. Show me the code.”* — Linus Torvalds
 > 🌍 *“Developer From”* — United Arab Emirates
-> 🔹 *“© 2026 นภัสสร ปิ่นเครือ”* — AE
+> 🔹 *“© 2026 จูเนียร์”* — AE
 
 <div align="center">
 
 # ⚠️ Copyright & Intellectual Property
 
-© 2026 **นภัสสร ปิ่นเครือ (Naphatsorn Pinkruea)**
+© 2026 **จูเนียร์ (Junior Dior)**
 All Rights Reserved.
 
 This repository, including source code, systems, architecture, UI/UX concepts, engineering structures, configurations, assets, and development workflows, is protected under international copyright and intellectual property laws.
@@ -688,8 +688,8 @@ Unauthorized copying, redistribution, modification, reproduction, re-uploading, 
 
 ### ⚡ Official Ownership
 
-**Owner:** นภัสสร ปิ่นเครือ
-**GitHub:** github.com/naphatsornbt
+**Owner:** จูเนียร์
+**GitHub:** github.com/junior-dior
 
 ---
 
@@ -701,11 +701,11 @@ Unauthorized copying, redistribution, modification, reproduction, re-uploading, 
 
 ## 🔒 ใบอนุญาตและข้อกำหนดสิทธิ์ (Proprietary & Copyright License)
 
-**ลิขสิทธิ์ © 2026 naphatsornbt สงวนลิขสิทธิ์ตามกฎหมายทุกประการ**
+**ลิขสิทธิ์ © 2026 junior-dior สงวนลิขสิทธิ์ตามกฎหมายทุกประการ**
 
 > [!CAUTION]
 > ### 🚨 คำเตือนและข้อตกลงสำคัญ (โปรดอ่านก่อนคิดจะคัดลอก)
-> ผลงาน โครงสร้าง ดีไซน์ และซอร์สโค้ดทั้งหมดใน Repository นี้ เป็นทรัพย์สินทางปัญญาของ **naphatsornbt** แต่เพียงผู้เดียว **ไม่อนุญาต** ให้ทำการคัดลอก ดัดแปลง แจกจ่าย หรือนำไปแอบอ้างเป็นผลงานของตนเองไม่ว่ากรณีใด ๆ ทั้งสิ้น
+> ผลงาน โครงสร้าง ดีไซน์ และซอร์สโค้ดทั้งหมดใน Repository นี้ เป็นทรัพย์สินทางปัญญาของ **junior-dior** แต่เพียงผู้เดียว **ไม่อนุญาต** ให้ทำการคัดลอก ดัดแปลง แจกจ่าย หรือนำไปแอบอ้างเป็นผลงานของตนเองไม่ว่ากรณีใด ๆ ทั้งสิ้น
 
 ### 🚫 ข้อห้ามเด็ดขาด (Strict Prohibitions)
 1. **ห้าม Copy-Paste เนียน:** ห้ามดึงเอาดีไซน์ ส่วนประกอบ มาร์คดาว หรือโค้ดส่วนใดส่วนหนึ่งไปใช้ใน Profile หรือ Repository ของตัวเองโดยไม่ได้รับอนุญาตเป็นลายลักษณ์อักษร
@@ -724,7 +724,7 @@ Unauthorized copying, redistribution, modification, reproduction, re-uploading, 
 > ### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 ### 1. Ownership & Restrictions
-All contents, including but not limited to source code, documentation, graphics, layout, and markdown structures in this repository, are the exclusive property of **naphatsornbt**. 
+All contents, including but not limited to source code, documentation, graphics, layout, and markdown structures in this repository, are the exclusive property of **junior-dior**. 
 * **NO LICENSE IS GRANTED** for commercial use, public redistribution, or modification.
 * You may **NOT** clone, fork, or copy this repository with the intent to host it as your own work.
 
@@ -740,4 +740,4 @@ Any detected infringement, plagiarism, or unauthorized redistribution will be me
 
 ## 📄 Proprietary License & Terms of Service
 
-**Copyright © 2026 naphatsornbt. All rights reserved.**
+**Copyright © 2026 junior-dior. All rights reserved.**
